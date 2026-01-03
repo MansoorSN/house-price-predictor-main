@@ -40,3 +40,5 @@ dist/
 # Ignore all .pkl files (models, preprocessors, etc.)
 *.pkl
 
+#Ignore the environment folder created
+house_price-env
